@@ -1,5 +1,3 @@
-# Template of the Homebrew cask. The release workflow fills in the version and the DMG's sha256
-# and pushes the result to https://github.com/vodorod-11/homebrew-tap as Casks/kopi.rb.
 cask "kopi" do
   version "0.1.0"
   sha256 "30020f19c254e6f6313e0bccc2fca51e75ea9863c5ea6a7e22c5b93c30db4986"
